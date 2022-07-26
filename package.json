@@ -1,0 +1,19 @@
+{
+  "name": "@gd-cho/test-tiny",
+  "version": "1.0.0",
+  "description": "![npm (scoped)](https://img.shields.io/npm/v/@gd-cho/tiny?color=red&style=plastic)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gd-cho/test-tiny.git"
+  },
+  "author": "gdcho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gd-cho/test-tiny/issues"
+  },
+  "homepage": "https://github.com/gd-cho/test-tiny#readme"
+}
