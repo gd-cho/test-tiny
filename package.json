@@ -10,10 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/gd-cho/test-tiny.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "test"
+  ],
   "author": "gdcho",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gd-cho/test-tiny/issues"
   },
-  "homepage": "https://github.com/gd-cho/test-tiny#readme"
+  "homepage": "https://github.com/gd-cho/test-tiny#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
